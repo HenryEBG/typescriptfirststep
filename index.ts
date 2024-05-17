@@ -1,3 +1,4 @@
+//@ts-check 
 type state = "started" | "stopped"; 
 
 interface  Vehicle {
